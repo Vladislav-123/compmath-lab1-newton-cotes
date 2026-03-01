@@ -25,14 +25,12 @@
 
 ## Структура проекта
    ```text
-   compmath-lab1-newton-cotes/
 ├── main.py                  # Главный скрипт (запуск экспериментов)
 ├── quadrature.py            # Реализация квадратурных формул
 ├── test_functions.py        # Тестовые функции и их точные интегралы
 ├── error_analysis.py        # Функции для расчёта погрешностей
 ├── requirements.txt         # Список зависимостей (matplotlib)
-├── README.md                # Документация
-├── .gitignore               # Исключённые файлы (__pycache__, .DS_Store)
+
 ├── convergence_e^x.png      # Графики сходимости (генерируются при запуске)
 ├── convergence_x^3.png
 ├── convergence_sqrt(x).png
