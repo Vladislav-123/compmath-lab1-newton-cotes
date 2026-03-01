@@ -16,3 +16,9 @@
    ```bash
    git clone https://github.com/Vladislav-123/compmath-lab1-newton-cotes.git
    cd compmath-lab1-newton-cotes
+2. **Установите зависимости**
+   ```bash
+   pip install -r requirements.txt
+3. **Запустите главнй скрипт:**
+   ```bash
+   python main.py
